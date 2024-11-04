@@ -2,9 +2,12 @@
 
 I'm a passionate Machine Learning Engineer and Full Stack Developer. I enjoy learning new technologies, experimenting with different frameworks, and finding creative solutions to complex problems.
 
-
-### 💼 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-mannuel-01ba18219/)
+<div align="">
+  <h3>💼 Connect with me</h3>
+  <a href="https://wa.me/+62895376449523"/><img src="https://img.shields.io/badge/Whatsapp-5ad46b.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcel-mannuel/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mannuelmarcel@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ec463c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ### **MachineLearning**
 
@@ -34,7 +37,3 @@ I'm a passionate Machine Learning Engineer and Full Stack Developer. I enjoy lea
 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**
 
-
-
-### 📫 How to reach me:
-- **Email:** mannuelmarcel@gmail.com
