@@ -17,6 +17,7 @@ I'm a passionate Machine Learning Engineer and Full Stack Developer. I enjoy lea
 
 ### **Frontend**
 
+- ![Nuxt](https://img.shields.io/badge/-Nuxt-4ADE80?style=flat&logo=nuxt&logoColor=white) **Nuxt**
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML**
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS**
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) **Bootstrap**
